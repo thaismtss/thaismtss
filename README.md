@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 :heart:Passionate about technology.
 
-:rocket:Estudando Linguagem Python and Front End Technologies
+:rocket:Studying Python Language and Front End Technologies
