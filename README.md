@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-:cherry_blossom:I'm 21 years old
+:cherry_blossom:I'm 24 years old
 
 :computer:Studying information systems in colleges ENIAC.
 
