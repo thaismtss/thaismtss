@@ -1,8 +1,9 @@
-<div style="margin-top: -30px">
-  <img align="right" width="200px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75597D&height=200&section=header&text=Olá%20eu%20sou%20a%20Thais&fontSize=40&fontColor=ffffff" />
+<div style="margin-top: -30px; margin-right: 100px">
+  <img align="right" width="220px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
 </div>
 
-## Olá, eu sou a Thais Martins
+## Seja bem vindo(a) ao meu Github
 <br/>
 
 - 🖥️ Desenvolvedora Frontend
@@ -11,13 +12,15 @@
 ##
 
 <br/>
-<div>
+
+
+<p align="center">
   <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
   <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
-</div>
+</p>
 
-##
 
+## Tecnologias Usadas diariamente
 <div>
   <br/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -30,8 +33,7 @@
   <br/>
 </div>
 
-##
-
+## Contatos
 <br />
 <div>
   <a href="https://www.linkedin.com/in/thais-martins-1b4692190/" target="_blank">
