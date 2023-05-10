@@ -1,5 +1,5 @@
 <div style="margin-top: -30px">
-  <img align="right" width="250px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+  <img align="right" width="200px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
 </div>
 
 ## Olá, eu sou a Thais Martins
