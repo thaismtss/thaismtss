@@ -1,4 +1,6 @@
-<img align="right" width="250px"  alt="thaismtss" style="margin-top: -30px" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+<div style="margin-top: -30px">
+  <img align="right" width="250px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+</div>
 
 ## Olá, eu sou a Thais Martins
 <br/>
