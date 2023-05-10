@@ -10,8 +10,8 @@
 
 <br/>
 <div>
-  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
-  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
+  <img height="160em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
+  <img height="160em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
 </div>
 
 ##
