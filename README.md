@@ -1,27 +1,46 @@
-### Hi, I'm Thais Martins  :sparkling_heart:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-martins-1b4692190/)](https://www.linkedin.com/in/thais-martins-1b4692190/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaismartins1999@gmail.com)](mailto:thaismartins1999@gmail.com)
+## Olá, eu sou a Thais Martins
+<br/>
 
-<!--
-**thaismtss/thaismtss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Desenvolvedora Frontend
+- 📖 Estudando ReactJs
+- ❤️ Amante de tecnologia
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<div>
+  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
+  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
+</div>
 
-## About me
+##
 
-:cherry_blossom:I'm 24 years old
+<div>
+  <br/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
+  <br/>
+</div>
 
-:computer:Studying information systems in colleges ENIAC.
+##
 
-:heart:Passionate about technology.
-
-:rocket:Studying Python Language and Front End Technologies
+<br />
+<div>
+  <a href="https://www.linkedin.com/in/thais-martins-1b4692190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="mailto:thaismartins1999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
+  <a href="https://t.me/thaismtss" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+  </a>
+  <a href="https://portfolio-thaismtss.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website">
+  </a>
+</div>
