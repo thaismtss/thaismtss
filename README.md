@@ -1,4 +1,4 @@
-<img align="right" width="250px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+<img align="right" width="250px"  alt="thaismtss" style="margin-top: -30px" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
 
 ## Olá, eu sou a Thais Martins
 <br/>
@@ -10,8 +10,8 @@
 
 <br/>
 <div>
-  <img height="160em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
-  <img height="160em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
+  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api?username=thaismtss&show_icons=true&theme=dracula"/>
+  <img height="180em" alt="thaismtss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismtss&layout=compact&theme=dracula" />
 </div>
 
 ##
