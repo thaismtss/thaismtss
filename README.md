@@ -20,7 +20,7 @@
 </p>
 
 
-## Tecnologias Usadas diariamente
+## Tecnologias usadas diariamente
 <div>
   <br/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
