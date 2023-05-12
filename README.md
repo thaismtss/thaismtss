@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75597D&height=200&section=header&text=Olá%20eu%20sou%20a%20Thais&fontSize=40&fontColor=ffffff" />
-<div style="margin-top: -30px; margin-right: 100px">
-  <img align="right" width="220px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
-</div>
+
+<img align="right" width="220px" height="200px"  alt="thaismtss" src="https://i.ibb.co/DkMBF6g/octocat-1683677671824.png" />
+
 
 ## Seja bem vindo(a) ao meu Github
 <br/>
@@ -9,6 +9,8 @@
 - 🖥️ Desenvolvedora Frontend
 - 📖 Estudando ReactJs
 - ❤️ Amante de tecnologia
+<br/>
+
 ##
 
 <br/>
